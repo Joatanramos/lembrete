@@ -8,7 +8,7 @@ function lembrete() {
     if (l != 19) {
         res.innerHTML = 'Bunito em baby'
     } else {
-        res.innerHTML = 'LEMBRETE: TE AMO PRINCESA! \u{1F49E} '
+        res.innerHTML = 'FELIZ DIA DOS NAMORADOS PRINCESA! <br> TE AMO!! \u{1F49E} '
         img.setAttribute('src', 'lembrete.JPG')
     }
     res.appendChild(img)
