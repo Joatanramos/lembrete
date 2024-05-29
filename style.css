@@ -15,8 +15,8 @@
     section {
     background-image: linear-gradient(to bottom, #ff0000e1
         , #ff000085 ,#ff00002c);
-        font: normal 15pt arial;
-        width: 400px;
+        font: normal 10pt arial;
+        width: 300px;
         margin: auto;
         border-radius: 10px;
         box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.507)
@@ -41,6 +41,7 @@
         text-align: center;
     }
     div#ft {
+        width: 300px;
         display: cover;
         text-align: center;
         font-weight: bold;
