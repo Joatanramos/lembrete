@@ -16,8 +16,8 @@
     background-image: linear-gradient(to bottom, #ff0000e1
         , #ff000085 ,#ff00002c);
         font: normal 15pt arial;
-        width: 280px;
-        height: 500px;
+        min-width: 280px;
+        max-width: 500px;
         margin: auto;
         border-radius: 10px;
         box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.507)
