@@ -5,7 +5,7 @@ function lembrete() {
     var img = document.createElement('img')
         img.setAttribute('id', 'foto')
     
-    if (l != 19) {
+    if (l != 12) {
         res.innerHTML = 'Bunito em baby'
     } else {
         res.innerHTML = 'FELIZ DIA DOS NAMORADOS PRINCESA! <br> TE AMO!! \u{1F49E} '
