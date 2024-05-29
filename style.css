@@ -1,7 +1,4 @@
 @charset "UTF-8";
-@media only screen and (max-width: 600px) {
-    section {
-        width: 30%;
     
     header {
         text-align: center;
@@ -59,5 +56,5 @@
         font-weight: bolder;
         font-size: 1.2em;
     } 
-}
+
 
