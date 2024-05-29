@@ -11,9 +11,6 @@ header > h1 {
 }
 body {
     background-color: #d4141485;
-    min-width: 280px;
-    max-width: 400px;
-    max-height: 500px;
 }
 section {
 background-image: linear-gradient(to bottom, #ff0000e1
@@ -22,7 +19,7 @@ background-image: linear-gradient(to bottom, #ff0000e1
     min-width: 280px;
     max-width: 400px;
     max-height: 500px;
-    display: flex;
+    min-height: 250px;
     margin: auto;
     border-radius: 10px;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.507)
