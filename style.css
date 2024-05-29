@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@media screen and (min-width: 760px) and (max-width:992px) {
+
     header {
         text-align: center;
     }
@@ -54,5 +54,5 @@
         font-weight: bolder;
         font-size: 1.2em;
     } 
-}
+
 
