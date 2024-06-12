@@ -1,0 +1,203 @@
+@charset "UTF-8";
+header {
+    text-align: center;
+}
+header > h1 {
+    font-size: 1.9em;
+    color: rgb(224, 20, 20);
+    text-shadow: 5px 5px 15px rgba(253, 252, 252, 0.712);
+    margin-bottom: -10px;
+}
+body {
+    background-color: #d4141485;
+    
+}
+section {
+background-image: linear-gradient(to bottom, #ff0000e1
+    , #ff000085 ,#ff00002c);
+    font: normal 10pt arial;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.507)
+}
+input.pg {
+    width: 110px;
+    height: 20px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.514);
+    border-radius: 5px;
+}
+input.bt {
+    height: 30px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.514);
+    border-radius: 5px;
+    text-align: center;
+}
+p {
+    color: white;
+    font-weight: bolder;
+    text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.445);
+    padding: 10px;
+    text-align: center;
+}
+div#ft {
+    height: 40vh;
+    display: cover;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    text-shadow: 5px 5px 15px black;
+    margin-top: 15px;
+}
+div#msg {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bolder;
+    color: white;
+    text-shadow: 5px 5px 15px black;
+    padding-bottom: 10px;
+}
+footer {
+    margin-top: 15px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.5em;
+} 
+
+
+header {
+        text-align: center;
+    }
+    header > h1 {
+        font-size: 1.9em;
+        color: rgb(224, 20, 20);
+        text-shadow: 5px 5px 15px rgba(253, 252, 252, 0.712);
+        margin-bottom: -10px;
+    }
+    body {
+        background-color: #d4141485;
+    }
+    section {
+    background-image: linear-gradient(to bottom, #ff0000e1
+        , #ff000085 ,#ff00002c);
+        font: normal 10pt arial;
+        width: 300px;
+        margin: auto;
+        border-radius: 10px;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.507)
+    }
+    input.pg {
+        width: 110px;
+        height: 20px;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.514);
+        border-radius: 5px;
+    }
+    input.bt {
+        height: 30px;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.514);
+        border-radius: 5px;
+        text-align: center;
+    }
+    p {
+        color: white;
+        font-weight: bolder;
+        text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.445);
+        padding: 10px;
+        text-align: center;
+    }
+    div#ft {
+        width: 300px;
+        display: cover;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+        text-shadow: 5px 5px 15px black;
+        margin-top: 15px;
+    }
+    div#msg {
+        text-align: center;
+        font-size: 1.5em;
+        font-weight: bolder;
+        color: white;
+        text-shadow: 5px 5px 15px black;
+        padding-bottom: 10px;
+    }
+    footer {
+        margin-top: 15px;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 1.5em;
+    } 
+
+
+@media only screen and (max-width: 600px) {
+    
+    header {
+        text-align: center;
+    }
+    header > h1 {
+        font-size: 1.9em;
+        color: rgb(224, 20, 20);
+        text-shadow: 5px 5px 15px rgba(253, 252, 252, 0.712);
+        margin-bottom: -10px;
+    }
+    body {
+        background-color: #d4141485;
+        background-image: url(fundo.webp);
+        
+    }
+    section {
+        background-image: url(fundo.webp);
+        font: normal 10pt arial;
+        width: 300px;
+        margin: auto;
+        border-radius: 10px;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.507);
+    }
+    input.pg {
+        width: 80px;
+        height: 30px;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.514);
+        border-radius: 5px;
+        font-size: 1.0em;
+    }
+    input.bt {
+        width: 80px;
+        height: 40px;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.514);
+        border-radius: 5px;
+        text-align: center;
+        font-size: 1.4em;
+    }
+    p {
+        color: rgb(78, 41, 67);
+        font-weight: bolder;
+        text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.445);
+        padding: 10px;
+        text-align: center;
+    }
+    div#ft {
+        width: 300px;
+        display: cover;
+        text-align: center;
+        font-weight: bold;
+        color: rgb(155, 30, 113);
+        text-shadow: 5px 5px 15px black;
+        margin-top: 15px;
+    }
+    div#msg {
+        text-align: center;
+        font-size: 1.5em;
+        font-weight: bolder;
+        color: rgb(194, 8, 8);
+        text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.603);
+        padding-bottom: 10px;
+    }
+    footer {
+        margin-top: 15px;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 1.5em;
+    } 
+
+    
+}
