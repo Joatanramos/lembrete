@@ -1,5 +1,4 @@
 @charset "UTF-8";
-<<<<<<< HEAD
 header {
     text-align: center;
 }
@@ -72,16 +71,6 @@ header {
         font-size: 1.9em;
         color: rgb(224, 20, 20);
         text-shadow: 5px 5px 15px rgba(253, 252, 252, 0.712);
-=======
-    
-    header {
-        text-align: center;
-    }
-    header > h1 {
-        font-size: 1.7em;
-        color: rgb(224, 20, 20);
-        text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.692);
->>>>>>> 30b3c731a6394b318988f946ffcaae2a23921768
         margin-bottom: -10px;
     }
     body {
@@ -122,7 +111,6 @@ header {
         font-weight: bold;
         color: white;
         text-shadow: 5px 5px 15px black;
-<<<<<<< HEAD
         margin-top: 15px;
     }
     div#msg {
@@ -132,14 +120,11 @@ header {
         color: white;
         text-shadow: 5px 5px 15px black;
         padding-bottom: 10px;
-=======
->>>>>>> 30b3c731a6394b318988f946ffcaae2a23921768
     }
     footer {
         margin-top: 15px;
         text-align: center;
         font-weight: bolder;
-<<<<<<< HEAD
         font-size: 1.5em;
     } 
 
@@ -216,9 +201,3 @@ header {
 
     
 }
-=======
-        font-size: 1.2em;
-    } 
-
-
->>>>>>> 30b3c731a6394b318988f946ffcaae2a23921768
